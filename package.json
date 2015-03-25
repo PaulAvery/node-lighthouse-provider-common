@@ -1,0 +1,20 @@
+{
+  "name": "lighthouse-provider-common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Useful providers for the lighthouse-provider module.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulavery/node-lighthouse-provider-common.git"
+  },
+  "dependencies": {
+    "fuzzy": "^0.1.0",
+    "is-url": "^1.2.0"
+  },
+  "author": "Florian Albertz",
+  "license": "BSD-3-Clause",
+  "jshintConfig": {
+    "node": true,
+    "esnext": true
+  }
+}
